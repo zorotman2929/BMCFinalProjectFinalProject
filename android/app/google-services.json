@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446764206648",
+    "project_id": "my-ecommerce-comics-app",
+    "storage_bucket": "my-ecommerce-comics-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446764206648:android:b1b5c3853efde557ab34cd",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_loMjNeA3JI7AeQAC1SgDIQIoegQS3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
